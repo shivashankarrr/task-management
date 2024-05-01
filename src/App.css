@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: roboto;
+  background-color: black;
 }
 
 .App-logo {
@@ -26,6 +28,9 @@
 
 .App-link {
   color: #61dafb;
+}
+.bg-container{
+  background-color: black;
 }
 
 @keyframes App-logo-spin {

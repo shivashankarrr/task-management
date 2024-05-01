@@ -1,0 +1,29 @@
+.bg-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    min-height: 10;
+  }
+  .add-button{
+    margin-left: 5px;
+    cursor: pointer;
+    background-color: #f3aa4e;
+    color: #ffffff;
+    border-radius: 2px;
+    outline: none;
+    border: 0px;
+    padding: 5px;
+  }
+  .error-msg{
+    color: red;
+  }
+  .main-heading{
+    color: #f3aa4e;
+  }
+  .input-item{
+    padding: 5px;
+    border-radius: 2px;
+    outline: none;
+    border: 0px;
+  }
